@@ -6,13 +6,13 @@ Full Stack Software Engineer
 
 I'm a CS senior graduating this May and am actively looking for full-time software engineering opportunities! 
 
-* 🔭 I’m currently working at Infineon Technologies
-* 🌱 I’m currently learning Next.js
-* 👯 I’m looking to collaborate on frontend or full-stack development projects
-* 🤔 I’m looking for a mentor to accelerate my growth as a SWE
-* 📫 How to reach me: [samyakpiya@gmail.com](mailto:samyakpiya@gmail.com)
-* 😄 Pronouns: he/him
-* ⚡ Fun fact: I'm secretly Spiderman... but don't tell anyone
+🔭 I’m currently working at Infineon Technologies
+🌱 I’m currently learning Next.js
+👯 I’m looking to collaborate on frontend or full-stack development projects
+🤔 I’m looking for a mentor to accelerate my growth as a SWE
+📫 How to reach me: [samyakpiya@gmail.com](mailto:samyakpiya@gmail.com)
+😄 Pronouns: he/him
+⚡ Fun fact: I'm secretly Spiderman... but don't tell anyone
 
 ### Skills
 
