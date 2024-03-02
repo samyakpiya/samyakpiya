@@ -1,16 +1,16 @@
 Hi, I'm Samyak 👋
 ===================================================================================================================================
 
-Full Stack Software Engineer
+Front End Software Engineer
 ----------------------------
 
-I'm a CS senior graduating this May and am actively looking for full-time software engineering opportunities! 
+I'm a CS senior graduating this May 2024 and am actively looking for full-time Front End Software Engineering opportunities! Check out my portfolio at www.samyakpiya.com.
 
-* 🔭 I’m currently working at Infineon Technologies
-* 🌱 I’m currently learning Next.js
-* 👯 I’m looking to collaborate on frontend or full-stack development projects
-* 🤔 I’m looking for a mentor to accelerate my growth as a SWE
 * 📫 How to reach me: [samyakpiya@gmail.com](mailto:samyakpiya@gmail.com)
+* 🔭 I’m currently working at [Infineon Technologies](https://www.infineon.com/)
+* 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+* 👯 I’m looking to collaborate on **Front End** or **Full Stack** development projects
+* 🤔 I’m looking for a mentor to accelerate my growth as a SWE
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I'm secretly Spiderman... but don't tell anyone
 
