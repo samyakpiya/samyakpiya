@@ -2,14 +2,14 @@
 
 ## 🎓 CS Senior (Graduating this May 2024) | 🌟 Software Engineer | 💻 Tech Enthusiast
 
-I'm currently an undergraduate senior majoring in Computer Science at the University of Kentucky. I'm passionate about learning how technology can be leveraged to solve real-world problems and make a difference in people's lives.Currently, I'm juggling my studies with a part-time role as a Frontend Software Engineer at **Infineon Technologies** within their RDI team. My main focus is on modernizing their legacy website and boosting web performance.
+I'm an undergraduate senior majoring in Computer Science at the University of Kentucky. I'm passionate about learning how technology can be leveraged to solve real-world problems and make a difference in people's lives. I'm juggling my studies with a part-time role as a Frontend Software Engineer at **Infineon Technologies** within their RDI team. My main focus is on modernizing their legacy website and boosting web performance.
 
 ### 🚀 About Me
 - 🌱 I'm currently learning Redux, GraphQL, and Docker.
 - 👯 I'm looking to collaborate on projects where I can leverage my frontend engineering skills in React and Next.js.
 - 🤔 I aim to work on scalable products that reach millions of users and would love to connect with mentors to help refine my skills.
 - 📫 How to reach me: [samyakpiya@gmail.com](mailto:opi222@uky.edu)
-- ⚡ Fun fact: When I'm not coding, you might find me immersed in competitive PvP games like Dota and Valorant.
+- ⚡ Fun fact: You might find me immersed in competitive PvP games like Dota and Valorant when I'm not coding.
 
 ### 🛠 Tech Stack
 - **Languages**: HTML, CSS, JavaScript, TypeScript
@@ -23,7 +23,7 @@ I'm currently an undergraduate senior majoring in Computer Science at the Univer
 
 ### 📚 My Goals
 - [ ] Launch my startup idea as a web application.
-- [ ] Contribute to at least two open source projects by the end of the year.
+- [ ] Contribute to at least two open-source projects by the end of the year.
 - [ ] Network with other software engineering professionals in the tech industry.
 
 ### 💼 Relevant Experiences
@@ -35,9 +35,9 @@ I'm currently an undergraduate senior majoring in Computer Science at the Univer
 - International Student Ambassador | University of Kentucky International Center | August 2020 - May 2024
 
 ### 📫 Let's Connect!
-Feel free to reach out to me for job opportunities, learning opportunities, collaborations or just to chat about technology and computer science.
+Please feel free to reach out for job opportunities, learning opportunities, collaborations or to chat about technology and computer science.
 
-Looking forward to growing my network!
+I am looking forward to hearing from you!
 
 ---
 
