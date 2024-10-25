@@ -27,7 +27,7 @@ I'm an undergraduate senior majoring in Computer Science at the University of Ke
 - [ ] Network with other software engineering professionals in the tech industry.
 
 ### 💼 Relevant Experiences
-- Front End Software Engineer | Infineon Technologies - RDI | August 2023 - Present | Part-Time
+- Front End Software Engineer | Infineon Technologies - RDI | August 2023 - Present | Full-Time
 - Software Engineer Intern | Infineon Technologies | May 2023 - August 2023 | Full-Time
 - Software Engineer Intern | University of Kentucky Information and Technology Services | May 2022 - May 2023
 
