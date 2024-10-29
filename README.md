@@ -1,11 +1,11 @@
 # Hi there, I'm Samyak Piya! 👋
 
-## 🎓 CS Senior (Graduating this May 2024) | 🌟 Software Engineer | 💻 Tech Enthusiast
+## 🎓 Recent CS Graduate (May 2024) | 🌟 Software Engineer | 💻 Tech Enthusiast
 
 I'm an undergraduate senior majoring in Computer Science at the University of Kentucky. I'm passionate about learning how technology can be leveraged to solve real-world problems and make a difference in people's lives. I'm juggling my studies with a part-time role as a Frontend Software Engineer at **Infineon Technologies** within their RDI team. My main focus is on modernizing their legacy website and boosting web performance.
 
 ### 🚀 About Me
-- 🌱 I'm currently learning Redux, GraphQL, and Docker.
+- 🌱 I'm currently learning Electron.js
 - 👯 I'm looking to collaborate on projects where I can leverage my frontend engineering skills in React and Next.js.
 - 🤔 I aim to work on scalable products that reach millions of users and would love to connect with mentors to help refine my skills.
 - 📫 How to reach me: [samyakpiya@gmail.com](mailto:opi222@uky.edu)
@@ -27,8 +27,8 @@ I'm an undergraduate senior majoring in Computer Science at the University of Ke
 - [ ] Network with other software engineering professionals in the tech industry.
 
 ### 💼 Relevant Experiences
-- Front End Software Engineer | Infineon Technologies - RDI | August 2023 - Present | Full-Time
-- Software Engineer Intern | Infineon Technologies | May 2023 - August 2023 | Full-Time
+- Front End Software Engineer | Infineon Technologies - RDI | May 2024 - Present | Full-Time
+- Software Engineer Intern | Infineon Technologies | May 2023 - May 2024 | Full-Time
 - Software Engineer Intern | University of Kentucky Information and Technology Services | May 2022 - May 2023
 
 ### 🌟 Leadership Experience
