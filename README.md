@@ -2,7 +2,7 @@
 
 ## 🎓 Recent CS Graduate (May 2024) | 🌟 Software Engineer | 💻 Tech Enthusiast
 
-I'm a US-based Software Engineer currently working at Infineon as a Frontend SWE. My main focus is on modernizing legacy websites, boosting web performance, and ensuring accessibility, responsiveness, and best practices.
+I'm a US-based Software Engineer. My last work was at Infineon as a Full Stack SWE where I modernized legacy websites, boosted web performance, and ensured accessibility, responsiveness, and best practices.
 
 ### 🚀 About Me
 - 🌱 I'm currently learning Electron.js
@@ -14,8 +14,8 @@ I'm a US-based Software Engineer currently working at Infineon as a Frontend SWE
 ### 🛠 Tech Stack
 - **Languages**: HTML, CSS, JavaScript, TypeScript, Python, Java, C, C++
 - **Front End Toolkit**: React, Next.js, Tailwind CSS, Shadcn/UI, Figma
-- **React Ecosystem**: Zustand, Redux, Reselect, Redux Thunk, Redux Saga, ReduxToolkit, TanStack Query, react-hook-form, Zod, Stripe
-- **Back End Toolkit**: GraphQL, MongoDB, SQL, Prisma, Postman
+- **React Ecosystem**: Zustand, Redux, Recoil, Reselect, Redux Thunk, Redux Saga, ReduxToolkit, TanStack Query, react-hook-form, Zod, Stripe
+- **Back End Toolkit**: GraphQL, MongoDB, PostgreSQL, Prisma, Postman
 - **Tools & Technologies**: Docker, Git, GitHub, Visual Studio Code, Linux
 
 ### 📈 GitHub Stats
@@ -27,8 +27,7 @@ I'm a US-based Software Engineer currently working at Infineon as a Frontend SWE
 - [ ] Network with other software engineering professionals in the tech industry.
 
 ### 💼 Relevant Experiences
-- Front End Software Engineer | Infineon Technologies - RDI | May 2024 - Present | Full-Time
-- Software Engineer Intern | Infineon Technologies | May 2023 - May 2024 | Part-Time during semesters, Full-Time during breaks
+- Full Stack Software Engineer | Infineon Technologies - RDI | May 2023 - Dec 2024 | 9 months Full-Time, 9 months Part-Time
 - Software Engineer Intern | University of Kentucky Information and Technology Services | May 2022 - May 2023 | Part-Time during semester, Full-Time during breaks
 
 ### 🌟 Leadership Experience
