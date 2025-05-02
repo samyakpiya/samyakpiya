@@ -2,7 +2,7 @@
 
 ## 🎓 Recent CS Graduate (May 2024) | 🌟 Software Engineer | 💻 Tech Enthusiast
 
-I'm a US-based Software Engineer. My last work was at Infineon as a Full Stack SWE where I modernized legacy websites, boosted web performance, and ensured accessibility, responsiveness, and best practices.
+I'm a US-based Software Engineer. I'm currently working on building the eCommerce store of one of the largest online gun retailers in USA. Before this, I was working at Infineon as a Full Stack SWE where I modernized legacy websites, boosted web performance, and ensured accessibility, responsiveness, and best practices.
 
 ### 🚀 About Me
 - 🌱 I'm currently learning Electron.js
